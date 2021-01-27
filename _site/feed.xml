@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/reads/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/reads/" rel="alternate" type="text/html" /><updated>2021-01-27T21:31:56+08:00</updated><id>http://localhost:4000/reads/feed.xml</id><title type="html">Reads</title><subtitle></subtitle><entry><title type="html">The Ethics of Artificial Intelligence</title><link href="http://localhost:4000/reads/2019/05/21/bostrom_yudkowsky_2014.html" rel="alternate" type="text/html" title="The Ethics of Artificial Intelligence" /><published>2019-05-21T08:00:01+08:00</published><updated>2019-05-21T08:00:01+08:00</updated><id>http://localhost:4000/reads/2019/05/21/bostrom_yudkowsky_2014</id><content type="html" xml:base="http://localhost:4000/reads/2019/05/21/bostrom_yudkowsky_2014.html">&lt;p&gt;&lt;a href=&quot;https://intelligence.org/files/EthicsofAI.pdf&quot;&gt;Link to article&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is part of a larger work titled Cambridge Handbook of Artificial Intelligence. Here I will only focus on Section 1, which discusses short-term issues of AI.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Some challenges of machine ethics are much like many other challenges involved in designing machines. Designing a robot arm to avoid crushing stray humans is no more morally fraught than designing a flame-retardant sofa.  It involves new programming challenges, but no new ethical challenges. &lt;strong&gt;But when AI algorithms take on cognitive work with social dimensions — cognitive tasks previously performed by humans — the AI algorithm inherits the social requirements.&lt;/strong&gt; [emphasis mine]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This short two-page excerpt gives a good overview of some pertinent issues related to AI in the near future. Namely:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transparency&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The algorithm should allow humans (decision makers and recipients) to understand - in human terms - why a particular decision was made.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Predictability&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The algorithm should be predictable by the humans that they govern.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The job of the legal system is not necessarily to optimize society, but to provide a predictable environment within which citizens can optimize their own lives.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Robustness&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The algorithm should not be susceptible to any manipulation that compromises the integrity of its decision. Consider for instance adversarial examples for image classifiers. Bostrom and Yudkowsky raise a good example of a gun detector that fails if the gun was placed next to a specific object.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Accountability&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The algorithm should hold an entity accountable to poor decisions. The authors mention an example of an AI system with a user override. A human might be disinclined to make use of the override — if the override goes wrong, the human is responsible, whereas if the original decision was wrong, the AI is responsible.&lt;/p&gt;</content><author><name></name></author><category term="general" /><category term="one-two" /><category term="three" /><summary type="html">Link to article</summary></entry></feed>

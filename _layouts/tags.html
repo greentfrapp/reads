@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<base target="_blank">
+<div id="main">
+<dt-article>
+    <h1 id="title">Reads</h1>
+    <h2>Thoughts and notes from stuff I read.</h2>
+    <h4><a href="https://greentfrapp.github.io/reads/" target="_self">Reads</a></h4>
+    <dt-byline></dt-byline>
+    <div class="contents">
+        <ul>
+        {% assign tags = page.tags | split:' ' %}
+        {% for tag in tags %}
+        <li><a href="/reads/tag/{{ tag }}">{{ tag }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+</dt-article>
+</div>
+<dt-appendix>
+  <p>
+    Thoughts and notes from stuff I read.
+  </p>
+  <div class="return-to-top"><a href="#title" target="_self">[Return to top]</a></div>
+</dt-appendix>
